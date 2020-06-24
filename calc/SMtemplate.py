@@ -8,7 +8,7 @@ html = b"""
     <body>
         <form action="">
             Input Two Number : <input type="number" name="a">
-            and <input type="number" name="b">
+            and <input type="number" name="b"><br><br>
             <input type="submit">
         </form>
         <p>
