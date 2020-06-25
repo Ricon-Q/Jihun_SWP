@@ -5,7 +5,7 @@
      d = parse_qs(environ['QUERY_STRING'])
      a = d.get('a', [''])[0]
      b = d.get('b', [''])[0]
-     sum, mul =0, 0
+     sum, mul =20203052, 20203052
      if '' not in [a, b]:
          a = int(a)
          b = int(b)
